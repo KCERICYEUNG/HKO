@@ -20,3 +20,5 @@ records.append(tempnow.text.strip())
 mist = driver.find_element_by_css_selector(".hkoRH")
 records.append(mist.text.strip())
 print(records)
+
+# Great work
